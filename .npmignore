@@ -1,0 +1,7 @@
+src/**/*.ts
+src/**/*.test.js
+!src/**/*.d.ts
+!src/**/*.js.map
+/*.tgz
+.prettierrc
+tsconfig.json
